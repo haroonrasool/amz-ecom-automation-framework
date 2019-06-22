@@ -9,3 +9,6 @@ Feature: Filters
     When I search for a product "nike"
     And I select a customer rating as "2or more"
     Then I should be able to see product with in range of customer rating
+
+
+    Scenario: Hello Harron
